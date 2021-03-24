@@ -6,7 +6,7 @@ All notable changes to this project will be documented in this file.
 - New file index.php.
 
 ## [1.0.1] - 2021-03-24
-### Added
+### Fixed
 - Project bug fixed with phpinfo function
 
 
